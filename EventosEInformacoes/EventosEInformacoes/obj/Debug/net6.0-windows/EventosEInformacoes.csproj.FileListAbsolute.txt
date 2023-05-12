@@ -1,0 +1,17 @@
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\bin\Debug\net6.0-windows\EventosEInformacoes.exe
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\bin\Debug\net6.0-windows\EventosEInformacoes.deps.json
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\bin\Debug\net6.0-windows\EventosEInformacoes.runtimeconfig.json
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\bin\Debug\net6.0-windows\EventosEInformacoes.dll
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\bin\Debug\net6.0-windows\EventosEInformacoes.pdb
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.csproj.AssemblyReference.cache
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.Form1.resources
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.csproj.GenerateResource.cache
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.AssemblyInfoInputs.cache
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.AssemblyInfo.cs
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.dll
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\refint\EventosEInformacoes.dll
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.pdb
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\EventosEInformacoes.genruntimeconfig.cache
+C:\Cursos\C#_WindowsForms\EventosEInformacoes\EventosEInformacoes\obj\Debug\net6.0-windows\ref\EventosEInformacoes.dll
