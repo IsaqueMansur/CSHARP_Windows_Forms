@@ -30,14 +30,16 @@
         {
             confimationBtn = new Button();
             label1 = new Label();
+            panel1 = new Panel();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
             // confimationBtn
             // 
-            confimationBtn.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
+            confimationBtn.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             confimationBtn.AutoSize = true;
             confimationBtn.BackColor = Color.PaleGreen;
-            confimationBtn.Location = new Point(686, 412);
+            confimationBtn.Location = new Point(6, 362);
             confimationBtn.Name = "confimationBtn";
             confimationBtn.Size = new Size(102, 32);
             confimationBtn.TabIndex = 0;
@@ -48,32 +50,44 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(686, 394);
+            label1.Location = new Point(6, 344);
             label1.Name = "label1";
             label1.Size = new Size(61, 15);
             label1.TabIndex = 1;
             label1.Text = "Confirmar";
+            label1.Click += label1_Click;
             label1.MouseClick += label1_MouseClick;
+            // 
+            // panel1
+            // 
+            panel1.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(confimationBtn);
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(1090, 400);
+            panel1.TabIndex = 2;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
-            ClientSize = new Size(800, 450);
-            Controls.Add(label1);
-            Controls.Add(confimationBtn);
+            ClientSize = new Size(1084, 461);
+            Controls.Add(panel1);
             MinimumSize = new Size(200, 200);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
         private Button confimationBtn;
         private Label label1;
+        private Panel panel1;
     }
 }
