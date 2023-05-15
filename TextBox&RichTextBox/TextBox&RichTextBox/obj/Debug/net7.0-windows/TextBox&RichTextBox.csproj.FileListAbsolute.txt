@@ -1,0 +1,17 @@
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\bin\Debug\net7.0-windows\TextBox&RichTextBox.exe
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\bin\Debug\net7.0-windows\TextBox&RichTextBox.deps.json
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\bin\Debug\net7.0-windows\TextBox&RichTextBox.runtimeconfig.json
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\bin\Debug\net7.0-windows\TextBox&RichTextBox.dll
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\bin\Debug\net7.0-windows\TextBox&RichTextBox.pdb
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.csproj.AssemblyReference.cache
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox_RichTextBox.Form1.resources
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.csproj.GenerateResource.cache
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.AssemblyInfoInputs.cache
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.AssemblyInfo.cs
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.dll
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\refint\TextBox&RichTextBox.dll
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.pdb
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\TextBox&RichTextBox.genruntimeconfig.cache
+C:\Cursos\C#_WindowsForms\TextBox&RichTextBox\TextBox&RichTextBox\obj\Debug\net7.0-windows\ref\TextBox&RichTextBox.dll

@@ -1,0 +1,17 @@
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\bin\Debug\net7.0-windows\MaskedBox.exe
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\bin\Debug\net7.0-windows\MaskedBox.deps.json
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\bin\Debug\net7.0-windows\MaskedBox.runtimeconfig.json
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\bin\Debug\net7.0-windows\MaskedBox.dll
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\bin\Debug\net7.0-windows\MaskedBox.pdb
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.csproj.AssemblyReference.cache
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.Form1.resources
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.csproj.GenerateResource.cache
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.AssemblyInfoInputs.cache
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.AssemblyInfo.cs
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.dll
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\refint\MaskedBox.dll
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.pdb
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\MaskedBox.genruntimeconfig.cache
+C:\Cursos\C#_WindowsForms\MaskedBox\MaskedBox\obj\Debug\net7.0-windows\ref\MaskedBox.dll

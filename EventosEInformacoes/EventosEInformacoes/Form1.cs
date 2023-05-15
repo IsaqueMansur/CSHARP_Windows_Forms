@@ -14,12 +14,12 @@ namespace EventosEInformacoes
 
         private void confimationBtn_Click(object sender, EventArgs e)
         {
-            DialogResult resultado = MessageBox.Show("Deseja continuar?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (resultado == DialogResult.Yes)
+            DialogResult result = MessageBox.Show("Deseja continuar?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+            if (result == DialogResult.Yes)
             {
                 MessageBox.Show("Você escolheu Sim!", "Confirmado !");
             }
-            else if (resultado == DialogResult.No)
+            else if (result == DialogResult.No)
             {
                 MessageBox.Show("Você escolheu Não!", "Negado !");
             }
