@@ -1,0 +1,17 @@
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\bin\Debug\net7.0-windows\TelaDeLogin.exe
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\bin\Debug\net7.0-windows\TelaDeLogin.deps.json
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\bin\Debug\net7.0-windows\TelaDeLogin.runtimeconfig.json
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\bin\Debug\net7.0-windows\TelaDeLogin.dll
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\bin\Debug\net7.0-windows\TelaDeLogin.pdb
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.csproj.AssemblyReference.cache
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.Form1.resources
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.csproj.GenerateResource.cache
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.AssemblyInfoInputs.cache
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.AssemblyInfo.cs
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.dll
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\refint\TelaDeLogin.dll
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.pdb
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\TelaDeLogin.genruntimeconfig.cache
+C:\Cursos\C#_WindowsForms\TelaDeLogin\TelaDeLogin\obj\Debug\net7.0-windows\ref\TelaDeLogin.dll
