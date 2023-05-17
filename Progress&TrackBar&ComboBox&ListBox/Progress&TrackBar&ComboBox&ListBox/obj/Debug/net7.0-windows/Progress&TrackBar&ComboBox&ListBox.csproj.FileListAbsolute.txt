@@ -1,0 +1,17 @@
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\bin\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.exe
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\bin\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.deps.json
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\bin\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.runtimeconfig.json
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\bin\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.dll
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\bin\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.pdb
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.csproj.AssemblyReference.cache
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress_TrackBar_ComboBox_ListBox.Form1.resources
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.csproj.GenerateResource.cache
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.AssemblyInfoInputs.cache
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.AssemblyInfo.cs
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.dll
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\refint\Progress&TrackBar&ComboBox&ListBox.dll
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.pdb
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\Progress&TrackBar&ComboBox&ListBox.genruntimeconfig.cache
+C:\Cursos\C#_WindowsForms\Progress&TrackBar&ComboBox&ListBox\Progress&TrackBar&ComboBox&ListBox\obj\Debug\net7.0-windows\ref\Progress&TrackBar&ComboBox&ListBox.dll

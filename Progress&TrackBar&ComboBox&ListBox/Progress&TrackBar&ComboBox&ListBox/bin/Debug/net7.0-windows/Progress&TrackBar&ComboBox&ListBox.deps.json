@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Progress&TrackBar&ComboBox&ListBox/1.0.0": {
+        "runtime": {
+          "Progress&TrackBar&ComboBox&ListBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Progress&TrackBar&ComboBox&ListBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
