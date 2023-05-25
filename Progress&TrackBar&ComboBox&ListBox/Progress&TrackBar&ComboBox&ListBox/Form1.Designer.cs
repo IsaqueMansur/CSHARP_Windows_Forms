@@ -36,7 +36,9 @@
             listBox1 = new ListBox();
             button2 = new Button();
             button3 = new Button();
+            groupBox1 = new GroupBox();
             ((System.ComponentModel.ISupportInitialize)trackBar).BeginInit();
+            groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // trackBar
@@ -89,7 +91,7 @@
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
             listBox1.Items.AddRange(new object[] { "Bolo" });
-            listBox1.Location = new Point(12, 180);
+            listBox1.Location = new Point(17, 32);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(206, 79);
             listBox1.TabIndex = 5;
@@ -97,7 +99,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(143, 278);
+            button2.Location = new Point(148, 117);
             button2.Name = "button2";
             button2.Size = new Size(75, 41);
             button2.TabIndex = 6;
@@ -107,7 +109,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(12, 278);
+            button3.Location = new Point(17, 117);
             button3.Name = "button3";
             button3.Size = new Size(75, 41);
             button3.TabIndex = 7;
@@ -115,14 +117,24 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(listBox1);
+            groupBox1.Controls.Add(button3);
+            groupBox1.Controls.Add(button2);
+            groupBox1.Location = new Point(12, 105);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(244, 171);
+            groupBox1.TabIndex = 8;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "groupBox1";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(listBox1);
+            Controls.Add(groupBox1);
             Controls.Add(label);
             Controls.Add(button1);
             Controls.Add(comboBox1);
@@ -131,6 +143,7 @@
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)trackBar).EndInit();
+            groupBox1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -145,5 +158,6 @@
         private ListBox listBox1;
         private Button button2;
         private Button button3;
+        private GroupBox groupBox1;
     }
 }

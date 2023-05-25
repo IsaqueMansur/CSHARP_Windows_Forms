@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CadasterLib">
+  <listaDePessoas>
+    <CadastroPessoa>
+      <dataDeNascimento>2000-10-31T00:00:00</dataDeNascimento>
+      <nome>Isaque Mansur</nome>
+      <nomeDaRua>Praça xdsfsdfs</nomeDaRua>
+      <numeroDaCasa>89</numeroDaCasa>
+      <numeroDoDocumento>157.191.376-96</numeroDoDocumento>
+    </CadastroPessoa>
+  </listaDePessoas>
+</BaseDeDados>

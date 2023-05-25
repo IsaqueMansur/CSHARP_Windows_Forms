@@ -1,0 +1,12 @@
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\bin\Debug\net7.0\CadasterLib.deps.json
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\bin\Debug\net7.0\CadasterLib.dll
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\bin\Debug\net7.0\CadasterLib.pdb
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.csproj.AssemblyReference.cache
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.AssemblyInfoInputs.cache
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.AssemblyInfo.cs
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.dll
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\refint\CadasterLib.dll
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\CadasterLib.pdb
+C:\Cursos\C#_WindowsForms\ProjetoCadastro\CadasterLib\obj\Debug\net7.0\ref\CadasterLib.dll

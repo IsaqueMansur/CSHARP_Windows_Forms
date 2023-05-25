@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCadastro", "ProjetoCadastro\ProjetoCadastro.csproj", "{21F296FE-1121-40B6-8F5E-5D35E9589FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadasterLib", "CadasterLib\CadasterLib.csproj", "{E952CEEC-2E9B-4E6A-B399-1366E96CCCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F296FE-1121-40B6-8F5E-5D35E9589FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F296FE-1121-40B6-8F5E-5D35E9589FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F296FE-1121-40B6-8F5E-5D35E9589FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F296FE-1121-40B6-8F5E-5D35E9589FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E952CEEC-2E9B-4E6A-B399-1366E96CCCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E952CEEC-2E9B-4E6A-B399-1366E96CCCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E952CEEC-2E9B-4E6A-B399-1366E96CCCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E952CEEC-2E9B-4E6A-B399-1366E96CCCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0095FED3-3AA5-44D0-ADF3-A69CD684BD55}
+	EndGlobalSection
+EndGlobal
